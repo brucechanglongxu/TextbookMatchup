@@ -1,1 +1,1 @@
-Tinder has created tremendous economic and emotional value for those in search of a partner from around the world. This project seeks to create a similar system platform for textbook lending services! 
+Tinder has created tremendous economic and emotional value for those in search of a partner from around the world. This project seeks to create a similar system platform for textbook lending services! We will learn how the fundamentals of system design, databases and matching algorithms that will help us to create such a system. 
